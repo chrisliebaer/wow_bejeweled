@@ -9,3 +9,7 @@ Download the zip and place the "Bejeweled" folder into the /Interface/AddOns/ fo
 Please use a bug reporting addon before opening issues.
 
 Any help getting this addon working 100% is welcome.
+
+----
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21QRW51)
